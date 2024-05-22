@@ -4,7 +4,7 @@
 
 ⚠️ We update this list only once a day. Visit [RemoteYeah](https://js.remoteyeah.com) so you don't miss out on new job openings.
 
-⏰ Last updated: 22 May 2024 07:47 AM UTC
+⏰ Last updated: 22 May 2024 07:57 AM UTC
 
 ## About RemoteYeah
 
