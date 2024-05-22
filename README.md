@@ -4,7 +4,7 @@
 
 ⚠️ We update this list only once a day. Visit [RemoteYeah](https://js.remoteyeah.com) so you don't miss out on new job openings.
 
-⏰ Last updated: 22 May 2024 08:00 AM UTC
+⏰ Last updated: 22 May 2024 12:00 PM UTC
 
 ## About RemoteYeah
 
@@ -24,6 +24,10 @@ RemoteYeah is a job board for remote JavaScript job seekers. 👨‍💻🏡 �
 
 ## Latest remote JavaScript jobs (1000+)
 
+- [Remote Sr Frontend Engineer](https://js.remoteyeah.com/remote-jobs/sr-frontend-engineer-ac4d9d27-07b9-4867-a69e-61e9853f9381?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Principal Front End Engineer](https://js.remoteyeah.com/remote-jobs/principal-front-end-engineer-3cd62382-b54c-4da8-af7c-f1ca7c0a37c8?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Full Stack Developer](https://js.remoteyeah.com/remote-jobs/full-stack-developer-1b85b789-c804-4b02-aab7-896997ce9ec9?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Full Stack Javascript Developer](https://js.remoteyeah.com/remote-jobs/full-stack-javascript-developer-896e3455-3653-4147-a6f3-3bf000005de4?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
 - [Remote Senior Software Engineer - Full Stack](https://js.remoteyeah.com/remote-jobs/senior-software-engineer-full-stack-df2c5e09-cd0e-4d7e-b359-a16e7a6b533b?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
 - [Remote Senior Software Engineer (Backend)](https://js.remoteyeah.com/remote-jobs/senior-software-engineer-backend-41257ad4-08a6-4820-8be1-8a77c664bceb?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
 - [Remote Developer Enablement Engineer](https://js.remoteyeah.com/remote-jobs/developer-enablement-engineer-a1ea3747-3ebc-4045-8c07-a2b17393d97f?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
