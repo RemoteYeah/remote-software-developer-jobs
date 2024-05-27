@@ -4,7 +4,7 @@
 
 ⚠️ We update this list only once a day. Visit [RemoteYeah](https://js.remoteyeah.com) so you don't miss out on new job openings.
 
-⏰ Last updated: 26 May 2024 12:00 PM UTC
+⏰ Last updated: 27 May 2024 12:00 PM UTC
 
 ## About RemoteYeah
 
@@ -24,6 +24,14 @@ RemoteYeah is a job board for remote JavaScript job seekers. 👨‍💻🏡 �
 
 ## Latest remote JavaScript jobs (1100+)
 
+- [Remote Senior Full-stack Engineer (React/Node)](https://js.remoteyeah.com/remote-jobs/senior-full-stack-engineer-reactnode-7d5a7f6d-8048-47c4-938c-0db0cc6dc7a3?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Full Stack Software Engineer](https://js.remoteyeah.com/remote-jobs/full-stack-software-engineer-fd36dd87-6dc6-4997-b259-bbe954b77b25?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Software Engineer II](https://js.remoteyeah.com/remote-jobs/software-engineer-ii-d167d4b7-b201-4033-b189-3486f16268e4?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Full Stack React / Python Developer - Latin America](https://js.remoteyeah.com/remote-jobs/full-stack-react-python-developer-latin-america-6c17cfad-912a-4b67-b10e-3fcca85e878e?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Frontend Engineer](https://js.remoteyeah.com/remote-jobs/frontend-engineer-d5f845b7-c612-4839-b26e-a41063b96c65?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Staff Software Engineer - Engineering Workflow](https://js.remoteyeah.com/remote-jobs/staff-software-engineer-engineering-workflow-60de79e1-c13c-41e7-8ebf-5e4a3e39fbf5?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Senior Full Stack Engineer](https://js.remoteyeah.com/remote-jobs/senior-full-stack-engineer-58379a98-ebe3-45ac-93ba-bc5b0b8fd2e3?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Senior Front-end Developer (Angular)](https://js.remoteyeah.com/remote-jobs/senior-front-end-developer-angular-88fce76c-1dab-4aef-86c0-bc0e2260d152?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
 - [Remote Team Lead / Senior Full Stack Developer](https://js.remoteyeah.com/remote-jobs/team-lead-senior-full-stack-developer-f59dda59-1792-428a-968d-eb77ed1315ee?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
 - [Remote Front End Engineer, Ember. js](https://js.remoteyeah.com/remote-jobs/front-end-engineer-ember-js-4e74aab7-374d-4498-9be3-cf0f3219b9e3?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
 - [Remote Senior Frontend Engineer, Access Control](https://js.remoteyeah.com/remote-jobs/senior-frontend-engineer-access-control-c2e503ef-f268-4cea-b046-9015b3339b2b?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
