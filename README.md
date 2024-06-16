@@ -4,7 +4,7 @@
 
 ⚠️ We update this list only once a day. Visit [RemoteYeah](https://remoteyeah.com) so you don't miss out on new job openings.
 
-⏰ Last updated: 15 June 2024 11:30 AM UTC
+⏰ Last updated: 16 June 2024 11:30 AM UTC
 
 ## About RemoteYeah
 
@@ -24,6 +24,27 @@ RemoteYeah is a job board for remote JavaScript job seekers. 👨‍💻🏡 �
 
 ## Latest remote JavaScript jobs (1100+)
 
+- [Remote React Developer](https://remoteyeah.com/remote-jobs/react-developer-092f386e-933f-4449-af61-250b75d39f32?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Software Engineer: Growth & Operations](https://remoteyeah.com/remote-jobs/software-engineer-growth-operations-ca799b88-bc21-4fe2-bc32-f115762e00d5?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Backend Developer](https://remoteyeah.com/remote-jobs/backend-developer-0d0b22b0-9c8c-434a-8135-70885c12610f?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Founding Software Engineer](https://remoteyeah.com/remote-jobs/founding-software-engineer-11479dba-e47f-4690-ae7d-309dfb415a8e?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote SaaS Software Engineer](https://remoteyeah.com/remote-jobs/saas-software-engineer-e4ad4bda-5969-443b-a0d7-6538a10f8d24?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Front End Software Engineer](https://remoteyeah.com/remote-jobs/front-end-software-engineer-5f91fd57-1756-4a7a-b22a-058f0e6b1635?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Senior / Staff Full Stack Engineer (f/m/d)](https://remoteyeah.com/remote-jobs/senior-staff-full-stack-engineer-fmd-3ba9b8b6-f4d3-4583-8e3c-8f5ac981cc54?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Senior Frontend Developer](https://remoteyeah.com/remote-jobs/senior-frontend-developer-89c18cd4-bef1-4aa9-bb00-66df17d49e73?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Full Stack .Net/Vue Developer - LATAM](https://remoteyeah.com/remote-jobs/full-stack-netvue-developer-latam-df2c8d6a-f803-4cbe-96db-8e90ab6f8cfc?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Senior Frontend Engineer (React) - 4 Day Week](https://remoteyeah.com/remote-jobs/senior-frontend-engineer-react-4-day-week-f2fcdde3-be37-44a9-ba05-f432cd01e91d?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Front End Developer](https://remoteyeah.com/remote-jobs/front-end-developer-078677a1-b36b-48b1-90a2-619b3bdd4b64?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Sr. Fullstack Engineer](https://remoteyeah.com/remote-jobs/sr-fullstack-engineer-af03a66f-dc74-4ad2-b7e1-ae8b36d2ac6b?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Fullstack Engineer (Europe)](https://remoteyeah.com/remote-jobs/fullstack-engineer-europe-feddc175-a935-4950-a852-118ef145a90c?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Frontend Developer](https://remoteyeah.com/remote-jobs/frontend-developer-3d6a0376-1a68-4c34-bd5d-30382287c0d5?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Junior Web Developer (Email)](https://remoteyeah.com/remote-jobs/junior-web-developer-email-e2bae1f8-41dc-402a-b641-64aa53036c1c?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Full Stack Software Engineer (React, Ruby On Rails)](https://remoteyeah.com/remote-jobs/full-stack-software-engineer-react-ruby-on-rails-67d61b58-f0ef-48ac-9407-6dfb1e07d1e7?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Senior Frontend Web Application Developer](https://remoteyeah.com/remote-jobs/senior-frontend-web-application-developer-8dd7a465-fc39-429d-a155-eb78ce505010?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Intermediate Fullstack Software Developer (Backend Focused)](https://remoteyeah.com/remote-jobs/intermediate-fullstack-software-developer-backend-focused-ad36b85e-910d-4d29-a16a-8d3a07bb58e6?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Senior Software Engineer - Vehicle Telematics](https://remoteyeah.com/remote-jobs/senior-software-engineer-vehicle-telematics-ffc4fa6d-5324-436a-b2c2-40983630e193?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Software Engineer (L3)](https://remoteyeah.com/remote-jobs/software-engineer-l3-8da55954-a975-494f-8080-18307da9d1b2?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
+- [Remote Senior Full Stack Engineer, Acquisition](https://remoteyeah.com/remote-jobs/senior-full-stack-engineer-acquisition-8d3427fd-f0ad-4b47-97ce-8e3e97110417?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
 - [Remote Junior Web Developer (Email)- 12 Months Contract](https://remoteyeah.com/remote-jobs/junior-web-developer-email-12-months-contract-cc5f07ff-2b83-44a4-8c9f-9a7aced95d75?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
 - [Remote Fullstack Software Engineer II, Treat Team](https://remoteyeah.com/remote-jobs/fullstack-software-engineer-ii-treat-team-81d91fc7-5fef-49c7-a087-8ea425047981?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
 - [Remote Senior Software Engineer (Frontend) - Sweden](https://remoteyeah.com/remote-jobs/senior-software-engineer-frontend-sweden-27c2d6c1-24c0-4b07-952f-8e733ab589a1?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
@@ -747,7 +768,6 @@ RemoteYeah is a job board for remote JavaScript job seekers. 👨‍💻🏡 �
 - [Remote Lead Full Stack Engineer - Bots](https://remoteyeah.com/remote-jobs/lead-full-stack-engineer-bots-6ce41784-6e02-465a-92cd-bcac994cf366?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
 - [Remote AWS/Frontend Developer](https://remoteyeah.com/remote-jobs/awsfrontend-developer-a1c99482-ae6f-46af-9ee4-afd64cc2b0f6?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
 - [Remote Java/Typescript Engineer III](https://remoteyeah.com/remote-jobs/javatypescript-engineer-iii-1436965d-38b1-4146-b11a-f6e3af811a83?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
-- [Remote Full Stack Engineer](https://remoteyeah.com/remote-jobs/full-stack-engineer-6113fe27-9bab-4c3f-88f2-0aa7ec3a52bb?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
 - [Remote Full Stack React/Python Developer - LATAM](https://remoteyeah.com/remote-jobs/full-stack-reactpython-developer-latam-8a3e0045-f0d8-48cb-ba13-f344a347cc3f?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
 - [Remote Senior Fullstack Engineer (Backend Focus)](https://remoteyeah.com/remote-jobs/senior-fullstack-engineer-backend-focus-64f9a331-4208-46d0-9b9d-868e9db464cc?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
 - [Remote Senior Software Engineer.](https://remoteyeah.com/remote-jobs/senior-software-engineer-ba3a6c6a-2973-4a87-a045-1df1b9e69cd6?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-javascript-jobs)
