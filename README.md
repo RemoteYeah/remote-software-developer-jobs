@@ -4,7 +4,7 @@
 
 ⚠️ We update this list only once a day. Visit [RemoteYeah](https://remoteyeah.com) so you don't miss out on new job openings.
 
-⏰ Last updated: 17 July 2024 10:45 AM UTC
+⏰ Last updated: 17 July 2024 11:30 AM UTC
 
 ## About RemoteYeah
 
@@ -24,6 +24,8 @@ RemoteYeah is a job board for remote software developer job seekers. 👨‍💻
 
 ## Latest remote software developer jobs (2800+)
 
+- [Remote Senior Core Platform Engineer](https://remoteyeah.com/remote-jobs/senior-core-platform-engineer-0c67c84e-2592-43c5-9030-d970ac7374c2?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
+- [Remote AI Engineer - Core](https://remoteyeah.com/remote-jobs/ai-engineer-core-d516611d-9d62-4a60-bd31-57261256458a?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
 - [Remote Senior/Mid Oracle Financials Applications Engineer (f/m/x)](https://remoteyeah.com/remote-jobs/seniormid-oracle-financials-applications-engineer-fmx-7caac0ca-c634-4613-9eeb-61f7786a2286?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
 - [Remote Senior Full Stack Engineer](https://remoteyeah.com/remote-jobs/senior-full-stack-engineer-addd7f90-57b6-4915-8b65-c981a94d52d1?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
 - [Remote [ 16538 Job] Backend Developer Senior, Brazil](https://remoteyeah.com/remote-jobs/16538-job-backend-developer-senior-brazil-7d50bcff-265e-4b06-9a63-50423f1af98b?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
@@ -90,8 +92,8 @@ RemoteYeah is a job board for remote software developer job seekers. 👨‍💻
 - [Remote Senior DevOps / Site Reliability Engineer - full-time](https://remoteyeah.com/remote-jobs/senior-devops-site-reliability-engineer-full-time-4bac2efd-a323-4c81-8e76-b9f2cdfd389d?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
 - [Remote Data Engineer (Australia)](https://remoteyeah.com/remote-jobs/data-engineer-australia-08dd64ab-a378-455c-9a1d-a12511a07e70?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
 - [Remote DevOps Engineer](https://remoteyeah.com/remote-jobs/devops-engineer-adf3bd10-897d-4d00-8b9a-e2869c83579f?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
-- [Remote Data Engineer](https://remoteyeah.com/remote-jobs/data-engineer-18aa8777-bb38-40ba-b5d1-e1de7e36c1bc?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
 - [Remote Data Engineer](https://remoteyeah.com/remote-jobs/data-engineer-2f8ea061-bbd7-4cf7-ab86-abf49bf3b5c4?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
+- [Remote Data Engineer](https://remoteyeah.com/remote-jobs/data-engineer-18aa8777-bb38-40ba-b5d1-e1de7e36c1bc?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
 - [Remote Sr. Threat Detection Engineer (Remote)](https://remoteyeah.com/remote-jobs/sr-threat-detection-engineer-remote-81652fef-9ffb-403d-ad40-84bf0d515465?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
 - [Remote Senior Cloud DBA](https://remoteyeah.com/remote-jobs/senior-cloud-dba-2c138667-05dd-4db5-b3b7-bd41094d7ff3?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
 - [Remote NetSuite Administrator](https://remoteyeah.com/remote-jobs/netsuite-administrator-0c891fdb-7dcb-417b-a9ec-d27f6c1ecd4d?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
