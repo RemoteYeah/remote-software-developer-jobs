@@ -4,7 +4,7 @@
 
 ⚠️ We update this list only once a day. Visit [RemoteYeah](https://remoteyeah.com) so you don't miss out on new job openings.
 
-⏰ Last updated: 09 October 2024 04:08 AM UTC
+⏰ Last updated: 09 October 2024 04:10 AM UTC
 
 ## About RemoteYeah
 
@@ -524,4 +524,5 @@ RemoteYeah is a job board for remote software developer job seekers. 👨‍💻
 - [Remote React Developer (FrontEnd)](https://remoteyeah.com/remote-jobs/react-developer-frontend-29ca74e2-00c2-462c-a3a9-2252ceb39cce?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
 - [Remote NGP Senior DevOps Engineer with Azure](https://remoteyeah.com/remote-jobs/ngp-senior-devops-engineer-with-azure-f2c65b6f-11b5-443a-9c56-b14e136e8fe3?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
 - [Remote Full Stack Developer Lead - (with Shopify experience)](https://remoteyeah.com/remote-jobs/full-stack-developer-lead-with-shopify-experience-c22c1bd6-a637-41a2-b7e0-93f9118e9e9f?ref=github.com&utm_source=github.com&utm_medium=github-readme&utm_campaign=remote-software-developer-jobs)
+
 See all [6600+ remote software developer jobs](https://remoteyeah.com) on our website.
